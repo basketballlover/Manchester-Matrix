@@ -1,1 +1,1 @@
-Co-authored-by: <alexcool20>
+Co-authored-by: alexcool20
